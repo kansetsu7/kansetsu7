@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kansetsu7&layout=compact&theme=radical)
+![GitHub states](https://github-readme-stats.vercel.app/api?username=kansetsu7&theme=jolly)
+
 <!--
 **kansetsu7/kansetsu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
